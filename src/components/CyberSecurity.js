@@ -15,7 +15,7 @@ const CyberSecurity = () => {
 
   return (
     <div>
-     <img src={careerImage} alt="People working in a cyper-related environment" style={{ maxWidth: '100%', height: 'auto' }} />
+     <img src={careerImage} alt="career" style={{ maxWidth: '100%', height: 'auto' }} />
       <h2>Cyber Security</h2>
       <button onClick={handleClick}>Go to Career</button>
       {/* Add other content */}

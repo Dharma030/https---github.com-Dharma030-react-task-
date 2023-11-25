@@ -13,7 +13,7 @@ const DataScience = () => {
 
   return (
     <div>
-     <img src={careerImage} alt="Career Image" style={{ maxWidth: '100%', height: 'auto' }} />
+     <img src={careerImage} alt="Career" style={{ maxWidth: '100%', height: 'auto' }} />
       <h2>Data Science</h2>
       <button onClick={handleClick}>Go to Cyber Security</button>
       {/* Add other content */}

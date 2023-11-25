@@ -13,7 +13,7 @@ const FullStackDevelopment = () => {
 
   return (
     <div>
-     <img src={careerImage} alt="People working in a career-related environment" style={{ maxWidth: '300px', height: 'auto' }} />
+     <img src={careerImage} alt="career" style={{ maxWidth: '300px', height: 'auto' }} />
       <h2>Full Stack Development</h2>
       <button onClick={handleClick}>Go to Data Science</button>
       {/* Add other content */}

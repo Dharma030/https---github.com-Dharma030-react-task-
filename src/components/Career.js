@@ -14,7 +14,7 @@ const Career = () => {
   return (
     <div>
       <h2>Career</h2>
-      <img src={careerImage} alt="Career Image" style={{ maxWidth: '100%', height: 'auto' }} />
+      <img src={careerImage} alt="Career" style={{ maxWidth: '100%', height: 'auto' }} />
       <p>Welcome to Careers</p>
       <button onClick={handleClick}>Go to All Courses</button>
     </div>
